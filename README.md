@@ -8,3 +8,5 @@ Using:
 - Repository Pattern
 - Shared Preferences
 - Themes (Light, Dark, Dark Yellow)
+
+Check the `images/` folder.
